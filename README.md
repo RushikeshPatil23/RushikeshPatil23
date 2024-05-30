@@ -1,5 +1,9 @@
+![MasterHead](https://github.com/RushikeshPatil23/Rushikeshpatil23/assets/169757781/8c4fea97-da29-42df-8655-df3dce0b62a2)
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
+(img align="right" alt="Coding" width="400" src="[](https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_720_1280/0/1578791250559?e=1722470400&v=beta&t=Z_oFqV14GkauiB0xKtTW6TOqipi9KOaEYidbCvRDJ_o)")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshpatil23&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshpatil23" /> </p>
 
